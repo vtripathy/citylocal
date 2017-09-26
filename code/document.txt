@@ -6,9 +6,18 @@ Thid is the first step
 2) set-up GIT_DIR to say C:/Code
 3) open git bash 
 4) run below command 
-   git init C:/Code
+   git init 
+   $ git clone https://github.com/vtripathy/citylocal.git citylocal
+   
+   
 5) git remote add 
    $ git remote add citylocal https://github.com/vtripathy/citylocal.git
    
-6) git Pull
+6)   copy .git file to devl folder under C:/devl
    
+7) git Pull
+   
+8) change something 
+
+9) git add 
+10 ) git push
