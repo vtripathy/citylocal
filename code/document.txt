@@ -1,0 +1,14 @@
+Thid is the first step 
+
+1) checkout git from https://git-scm.com/download/win
+2) Install git from above link 
+   chckout as is ,check in as is as option
+2) set-up GIT_DIR to say C:/Code
+3) open git bash 
+4) run below command 
+   git init C:/Code
+5) git remote add 
+   $ git remote add citylocal https://github.com/vtripathy/citylocal.git
+   
+6) git Pull
+   
